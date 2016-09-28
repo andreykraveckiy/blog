@@ -1,0 +1,8 @@
+# README
+
+This is application for [*Rails for beginers*](http://rusrails.ru/getting-started-with-rails).
+
+It uses:
+-ruby  	 -v: 2.2.2
+-rails 	 -v: 5.0.0.1
+-sqlite3 -v: 3.11.0
